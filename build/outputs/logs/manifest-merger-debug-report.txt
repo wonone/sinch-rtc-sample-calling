@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:3:1-47
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:5:1-26
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:4:1-24
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.microphone
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:7:1-9:31
+	android:required
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:9:5-29
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:8:5-47
+uses-permission#android.permission.INTERNET
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:11:1-62
+MERGED from [sinch-rtc-sample-calling:daum-speech-openapi-5.0:unspecified] C:\Users\A\.android\build-cache\16f9858af83967453f8f67944c4688d16f88a5b7\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:11:18-60
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:12:1-75
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:12:18-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:13:1-74
+MERGED from [sinch-rtc-sample-calling:daum-speech-openapi-5.0:unspecified] C:\Users\A\.android\build-cache\16f9858af83967453f8f67944c4688d16f88a5b7\output\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:13:18-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:14:1-66
+MERGED from [sinch-rtc-sample-calling:daum-speech-openapi-5.0:unspecified] C:\Users\A\.android\build-cache\16f9858af83967453f8f67944c4688d16f88a5b7\output\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:14:18-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:15:1-70
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:15:18-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:16:1-68
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:16:18-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:18:1-77
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:18:18-74
+application
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:23:1-41:15
+MERGED from [:sinch-android-rtc:3.9.14] C:\Users\A\.android\build-cache\4126b32da75e634ec867633e6db93dfdb5c3a175\output\AndroidManifest.xml:11:5-19:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\A\.android\build-cache\244334c7fd8b0e5122d82583d024d8108043862e\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:26:5-37
+	android:allowBackup
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:24:5-31
+	android:icon
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:25:5-34
+	android:theme
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:27:5-36
+service#com.sinch.android.rtc.sample.calling.SinchService
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:28:5-53
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:28:14-42
+activity#com.sinch.android.rtc.sample.calling.LoginActivity
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:29:5-37:16
+	android:screenOrientation
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:32:9-45
+	android:label
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:31:9-41
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:30:9-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:33:9-36:25
+action#android.intent.action.MAIN
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:34:13-64
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:34:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:35:13-72
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:35:23-70
+activity#com.sinch.android.rtc.sample.calling.CallScreenActivity
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:38:5-88
+	android:screenOrientation
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:38:50-86
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:38:15-49
+activity#com.sinch.android.rtc.sample.calling.IncomingCallScreenActivity
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:39:5-96
+	android:screenOrientation
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:39:58-94
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:39:15-57
+activity#com.sinch.android.rtc.sample.calling.PlaceCallActivity
+ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:40:5-87
+	android:screenOrientation
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:40:49-85
+	android:name
+		ADDED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml:40:15-48
+uses-sdk
+INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:sinch-android-rtc:3.9.14] C:\Users\A\.android\build-cache\4126b32da75e634ec867633e6db93dfdb5c3a175\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\A\.android\build-cache\244334c7fd8b0e5122d82583d024d8108043862e\output\AndroidManifest.xml:20:5-43
+MERGED from [sinch-rtc-sample-calling:daum-speech-openapi-5.0:unspecified] C:\Users\A\.android\build-cache\16f9858af83967453f8f67944c4688d16f88a5b7\output\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+		INJECTED from C:\JAVA WEB\sinch-android-rtc-3.9.14\samples\sinch-rtc-sample-calling\AndroidManifest.xml
+service#com.sinch.android.rtc.internal.client.gcm.InstanceIDTokenService
+ADDED from [:sinch-android-rtc:3.9.14] C:\Users\A\.android\build-cache\4126b32da75e634ec867633e6db93dfdb5c3a175\output\AndroidManifest.xml:12:9-18:19
+	android:exported
+		ADDED from [:sinch-android-rtc:3.9.14] C:\Users\A\.android\build-cache\4126b32da75e634ec867633e6db93dfdb5c3a175\output\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:sinch-android-rtc:3.9.14] C:\Users\A\.android\build-cache\4126b32da75e634ec867633e6db93dfdb5c3a175\output\AndroidManifest.xml:13:13-92
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from [:sinch-android-rtc:3.9.14] C:\Users\A\.android\build-cache\4126b32da75e634ec867633e6db93dfdb5c3a175\output\AndroidManifest.xml:15:13-17:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from [:sinch-android-rtc:3.9.14] C:\Users\A\.android\build-cache\4126b32da75e634ec867633e6db93dfdb5c3a175\output\AndroidManifest.xml:16:17-80
+	android:name
+		ADDED from [:sinch-android-rtc:3.9.14] C:\Users\A\.android\build-cache\4126b32da75e634ec867633e6db93dfdb5c3a175\output\AndroidManifest.xml:16:25-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from [sinch-rtc-sample-calling:daum-speech-openapi-5.0:unspecified] C:\Users\A\.android\build-cache\16f9858af83967453f8f67944c4688d16f88a5b7\output\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [sinch-rtc-sample-calling:daum-speech-openapi-5.0:unspecified] C:\Users\A\.android\build-cache\16f9858af83967453f8f67944c4688d16f88a5b7\output\AndroidManifest.xml:14:22-65

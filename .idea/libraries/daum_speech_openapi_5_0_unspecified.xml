@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="daum-speech-openapi-5.0-unspecified">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/16f9858af83967453f8f67944c4688d16f88a5b7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/16f9858af83967453f8f67944c4688d16f88a5b7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/16f9858af83967453f8f67944c4688d16f88a5b7/output/jars/libs/dialoid-apklib-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

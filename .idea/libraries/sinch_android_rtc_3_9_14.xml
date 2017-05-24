@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sinch-android-rtc-3.9.14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/4126b32da75e634ec867633e6db93dfdb5c3a175/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/4126b32da75e634ec867633e6db93dfdb5c3a175/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

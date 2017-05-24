@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login.xml",
+        "source": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\res\\drawable\\button_login.xml"
+    },
+    {
+        "merged": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\build\\intermediates\\res\\merged\\debug\\drawable\\button_call.xml",
+        "source": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\res\\drawable\\button_call.xml"
+    },
+    {
+        "merged": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\build\\intermediates\\res\\merged\\debug\\drawable\\button_accept.xml",
+        "source": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\res\\drawable\\button_accept.xml"
+    },
+    {
+        "merged": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\build\\intermediates\\res\\merged\\debug\\drawable\\mobile_carrier.png",
+        "source": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\res\\drawable\\mobile_carrier.png"
+    },
+    {
+        "merged": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\build\\intermediates\\res\\merged\\debug\\drawable\\inputbox.xml",
+        "source": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\res\\drawable\\inputbox.xml"
+    },
+    {
+        "merged": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\build\\intermediates\\res\\merged\\debug\\drawable\\button_decline.xml",
+        "source": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\res\\drawable\\button_decline.xml"
+    },
+    {
+        "merged": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\build\\intermediates\\res\\merged\\debug\\drawable\\button_end.xml",
+        "source": "C:\\JAVA WEB\\sinch-android-rtc-3.9.14\\samples\\sinch-rtc-sample-calling\\res\\drawable\\button_end.xml"
+    }
+]
